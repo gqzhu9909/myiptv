@@ -8,3 +8,9 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/gqzhu9909/images@master/CCTV13新闻.webp" group-title="央视频道",CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="General",凤凰中文 (720p)
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="News",凤凰资讯 (720p)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰香港 (720p)
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
