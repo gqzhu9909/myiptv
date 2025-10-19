@@ -4,3 +4,8 @@ Meroser 的 IPTV 项目：其 Logo 来源为https://github.com/wanglindl/TVlogo�
 
 ## 2.A curated list of resources related to IPTV.
 https://github.com/iptv-org/awesome-iptv
+
+## 3.Github加速
+将GitHub链接转换为多区域加速链接，解决GitHub访问慢、下载失败等问题
+https://raw.githack.com/
+https://gh-proxy.com/https://raw.githubusercontent.com/gqzhu9909/myiptv/refs/heads/main/ipv4.m3u
