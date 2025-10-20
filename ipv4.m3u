@@ -34,41 +34,27 @@ https://cdn.163189.xyz/live/fhzw/stream.m3u8
 http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰中文10" tvg-name="凤凰中文10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
-
 # 凤凰资讯台
 #EXTINF:-1 tvg-id="PhoenixInfo_01" tvg-name="凤凰资讯台_01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_01
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-
 #EXTINF:-1 tvg-id="PhoenixInfo_02" tvg-name="凤凰资讯台_02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_02
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-
 #EXTINF:-1 tvg-id="PhoenixInfo_03" tvg-name="凤凰资讯台_03" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_03
 https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-
 #EXTINF:-1 tvg-id="PhoenixInfo_04" tvg-name="凤凰资讯台_04" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_04
 http://www.terrykang.cn:5678/sxg.php?id=test2_4000
-
 #EXTINF:-1 tvg-id="PhoenixInfo_05" tvg-name="凤凰资讯台_05" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_05
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8  # 可能为音频源
-
 #EXTINF:-1 tvg-id="PhoenixInfo_06" tvg-name="凤凰资讯台_06" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_06
 http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-
 #EXTINF:-1 tvg-id="PhoenixInfo_07" tvg-name="凤凰资讯台_07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_07
 http://zqh2333.top:2222/rtp/239.93.24.4:2191
-
-
 # 凤凰香港台
 #EXTINF:-1 tvg-id="PhoenixHK_01" tvg-name="凤凰香港台_01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港台_01
 https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-
 #EXTINF:-1 tvg-id="PhoenixHK_02" tvg-name="凤凰香港台_02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港台_02
 https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-
 #EXTINF:-1 tvg-id="PhoenixHK_03" tvg-name="凤凰香港台_03" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港台_03
 http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-
 #EXTINF:-1 tvg-id="PhoenixHK_04" tvg-name="凤凰香港台_04" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港台_04
-https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40  # 含时效参数，可能过期
-
-
+https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40 
