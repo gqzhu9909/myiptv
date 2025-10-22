@@ -45,9 +45,8 @@ http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8  # 可能为音频源
 #EXTINF:-1 tvg-id="PhoenixInfo_06" tvg-name="凤凰资讯台_06" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台_06
 http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-#EXTINF:-1 tvg-id="PhoenixInfo_07" tvg-name="凤凰资讯台-07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台-07
+#EXTINF:-1 tvg-id="PhoenixInfo_07" tvg-name="凤凰资讯台07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯台07
 http://zqh2333.top:2222/rtp/239.93.24.4:2191
-# 凤凰香港台
 #EXTINF:-1 tvg-id="PhoenixHK_01" tvg-name="凤凰香港台_01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港台_01
 https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 #EXTINF:-1 tvg-id="PhoenixHK_02" tvg-name="凤凰香港台_02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港台_02
