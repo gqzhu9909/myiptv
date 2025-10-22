@@ -13,3 +13,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/gqzhu9909/myiptv/refs/hea
 ## 4.实现对多个直播源的检测，并帮助你选择出相对较快且稳定的直播源
 https://github.com/zhimin-dev/iptv-checker/releases/tag/v4.1.7
 https://github.com/Guovin/iptv-api/releases/tag/1.7.3
+
+## 5.直播源相关资源汇总
+https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
